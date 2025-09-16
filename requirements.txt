@@ -1,3 +1,4 @@
+# pytorch GPU - pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu129
 numpy 
 pandas 
 matplotlib

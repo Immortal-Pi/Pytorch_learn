@@ -1,10 +1,10 @@
 # pytorch GPU - pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu129
 numpy 
 pandas 
+seaborn
+scikit-learn
 matplotlib
 pillow
 plotly 
-scikit-learn
-seaborn 
 pytorch
 torchvision 

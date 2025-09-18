@@ -4,6 +4,7 @@ pandas
 seaborn
 scikit-learn
 matplotlib
+torchviz
 pillow
 plotly 
 pytorch
